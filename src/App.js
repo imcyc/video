@@ -9,6 +9,9 @@ function App() {
         <img src="https://webinarimcyc.com/images/logo_200.png" alt="" title="" />
         <h2>Instituto Mexicano del Cemento y del Concreto A.C.</h2>
         <p>Plataforma para la transmisión en directo de webinars y conferencias.</p>
+        <div align="center">
+          <button class="btn">INGRESAR A LA PLATAFORMA</button>
+        </div>
       </header>
     </div>
   );
